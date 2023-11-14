@@ -1,0 +1,14 @@
+.mainElement {
+    display: flex;
+    justify-content: space-around;
+   margin-left: 20px;
+   
+}
+.mainDiv{
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: -20px;
+  
+}
